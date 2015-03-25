@@ -6,3 +6,35 @@
 2015-03-25 13:26:16.843 todo[16389:636253] [CDVTimer][TotalPluginStartup] 0.290990ms
 2015-03-25 13:26:17.242 todo[16389:636253] Resetting plugins due to page load.
 2015-03-25 13:26:23.901 todo[16389:636253] Finished load of: file:///Users/rampanmj/Library/Developer/CoreSimulator/Devices/B425549A-A578-45C7-B7BA-1BFC5C84D08D/data/Containers/Bundle/Application/C623C17F-06C0-4B63-80F5-7F3BD077A923/todo.app/www/index.html
+2015-03-25 13:44:06.724 todo[17243:649718] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/rampanmj/Library/Developer/CoreSimulator/Devices/B425549A-A578-45C7-B7BA-1BFC5C84D08D/data/Containers/Data/Application/25AE4559-C44A-4315-B6B7-4DB3FE8E39FF/Library/Cookies/Cookies.binarycookies
+2015-03-25 13:44:06.779 todo[17243:649718] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-25 13:44:06.779 todo[17243:649718] Multi-tasking -> Device: YES, App: YES
+2015-03-25 13:44:06.781 todo[17243:649718] Unlimited access to network resources
+2015-03-25 13:44:06.845 todo[17243:649718] [CDVTimer][keyboard] 0.057995ms
+2015-03-25 13:44:06.845 todo[17243:649718] [CDVTimer][TotalPluginStartup] 0.221968ms
+2015-03-25 13:44:06.912 todo[17243:649718] Resetting plugins due to page load.
+2015-03-25 13:44:07.107 todo[17243:649718] Finished load of: file:///Users/rampanmj/Library/Developer/CoreSimulator/Devices/B425549A-A578-45C7-B7BA-1BFC5C84D08D/data/Containers/Bundle/Application/910C9F70-6992-48B9-8913-D651B956CE43/todo.app/www/index.html
+2015-03-25 13:54:21.098 todo[17451:658083] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/rampanmj/Library/Developer/CoreSimulator/Devices/B425549A-A578-45C7-B7BA-1BFC5C84D08D/data/Containers/Data/Application/236463C0-5FB2-4793-BE10-C630B5AFBA37/Library/Cookies/Cookies.binarycookies
+2015-03-25 13:54:21.149 todo[17451:658083] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-25 13:54:21.149 todo[17451:658083] Multi-tasking -> Device: YES, App: YES
+2015-03-25 13:54:21.151 todo[17451:658083] Unlimited access to network resources
+2015-03-25 13:54:21.211 todo[17451:658083] [CDVTimer][keyboard] 0.053048ms
+2015-03-25 13:54:21.211 todo[17451:658083] [CDVTimer][TotalPluginStartup] 0.209987ms
+2015-03-25 13:54:21.276 todo[17451:658083] Resetting plugins due to page load.
+2015-03-25 13:54:21.484 todo[17451:658083] Finished load of: file:///Users/rampanmj/Library/Developer/CoreSimulator/Devices/B425549A-A578-45C7-B7BA-1BFC5C84D08D/data/Containers/Bundle/Application/CC6543D5-E972-4B66-A133-41C497AA711A/todo.app/www/index.html
+2015-03-25 13:54:43.633 todo[17628:658805] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/rampanmj/Library/Developer/CoreSimulator/Devices/B425549A-A578-45C7-B7BA-1BFC5C84D08D/data/Containers/Data/Application/ABCDB29F-64AB-42C7-9AF5-D9BE1FB56644/Library/Cookies/Cookies.binarycookies
+2015-03-25 13:54:43.698 todo[17628:658805] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-25 13:54:43.699 todo[17628:658805] Multi-tasking -> Device: YES, App: YES
+2015-03-25 13:54:43.700 todo[17628:658805] Unlimited access to network resources
+2015-03-25 13:54:43.767 todo[17628:658805] [CDVTimer][keyboard] 0.057995ms
+2015-03-25 13:54:43.767 todo[17628:658805] [CDVTimer][TotalPluginStartup] 0.214994ms
+2015-03-25 13:54:43.803 todo[17628:658805] Resetting plugins due to page load.
+2015-03-25 13:54:43.981 todo[17628:658805] Finished load of: file:///Users/rampanmj/Library/Developer/CoreSimulator/Devices/B425549A-A578-45C7-B7BA-1BFC5C84D08D/data/Containers/Bundle/Application/D3F8709C-0862-45F7-8359-8E2EC246259E/todo.app/www/index.html
+2015-03-25 13:55:56.986 todo[17733:659830] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/rampanmj/Library/Developer/CoreSimulator/Devices/B425549A-A578-45C7-B7BA-1BFC5C84D08D/data/Containers/Data/Application/85F7D74B-0C9E-4528-93D5-FB5262A16662/Library/Cookies/Cookies.binarycookies
+2015-03-25 13:55:57.043 todo[17733:659830] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-25 13:55:57.044 todo[17733:659830] Multi-tasking -> Device: YES, App: YES
+2015-03-25 13:55:57.046 todo[17733:659830] Unlimited access to network resources
+2015-03-25 13:55:57.108 todo[17733:659830] [CDVTimer][keyboard] 0.097036ms
+2015-03-25 13:55:57.108 todo[17733:659830] [CDVTimer][TotalPluginStartup] 0.337005ms
+2015-03-25 13:55:57.320 todo[17733:659830] Resetting plugins due to page load.
+2015-03-25 13:56:04.291 todo[17733:659830] Finished load of: file:///Users/rampanmj/Library/Developer/CoreSimulator/Devices/B425549A-A578-45C7-B7BA-1BFC5C84D08D/data/Containers/Bundle/Application/C3623DB1-0C70-454B-85E7-88B7C8A9D73F/todo.app/www/index.html
