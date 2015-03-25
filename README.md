@@ -1,2 +1,2 @@
 # Ionic-Seed
-Starting point for building an Ionic App
+Starting point for building an Ionic app
