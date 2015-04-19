@@ -6,7 +6,13 @@
 (function() {
     'use strict';
 
+  var serviceBase = 'http://localhost:26264/';
+
   angular.module('todoApp', ['ionic', 
     'todo'])
+	  .constant('ngAuthSettings', {
+	    apiServiceBaseUri: serviceBase,
+	    clientId: 'ngAuthApp'
+	});
 }());
 

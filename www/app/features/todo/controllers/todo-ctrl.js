@@ -1,8 +1,8 @@
 (function () {
     'use strict';
 
-    angular.module('todo').controller('TodoCtrl', ['$scope', '$timeout', '$ionicModal', '$ionicSideMenuDelegate', 'TodoService',
-        function ($scope, $timeout, $ionicModal, $ionicSideMenuDelegate, TodoService) {
+    angular.module('todo').controller('TodoCtrl', ['$scope', '$timeout', '$ionicModal', '$ionicSideMenuDelegate', 'TodoService', 'ngAuthSettings',
+        function ($scope, $timeout, $ionicModal, $ionicSideMenuDelegate, TodoService, ngAuthSettings) {
 
     // A utility function for creating a new project
     // with the given projectTitle
@@ -38,6 +38,7 @@
     // Create our modal
     $ionicModal.fromTemplateUrl('new-task.html', function(modal) {
       $scope.taskModal = modal;
+      console.log(ngAuthSettings.apiServiceBaseUri);
     }, {
       scope: $scope
     });
