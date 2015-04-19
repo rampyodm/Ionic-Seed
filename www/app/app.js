@@ -7,12 +7,10 @@
     'use strict';
 
   var serviceBase = 'http://localhost:26264/';
-
-  angular.module('todoApp', ['ionic', 
-    'todo'])
+  angular.module('todoApp', ['ionic',
+    'todo', 'login', 'LocalStorageModule'])
 	  .constant('ngAuthSettings', {
 	    apiServiceBaseUri: serviceBase,
 	    clientId: 'ngAuthApp'
 	});
 }());
-
