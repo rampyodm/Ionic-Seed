@@ -4,5 +4,7 @@ This was created by starting with the Ionic "Todo" app. The controller, service,
 
 The original todo app can be found here: http://ionicframework.com/docs/guide/building.html
 
+After cloning the project, run "bower install"
+
 To serve the website locally: ionic serve
 
